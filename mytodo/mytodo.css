@@ -1,0 +1,36 @@
+*{
+    
+    background-color:sandybrown;
+}
+input{
+    margin: 0;
+    border:none;
+    border-radius:0;
+    width:55%;
+    padding:10px;
+    font-size: 16px;
+    background-color: white;
+}
+/*remove margins and padding from list*/
+ul{
+    margin: 0;
+    padding: 0;
+}
+/*style list items*/
+ul li{
+    margin-top: 20px;
+    background:red;
+    font-size: 18px;
+}
+/*style the add button*/
+.add{
+
+    background: #d9d9d9;
+    color:#555;
+    text-align: center;
+    font-size: 16px;
+    
+}
+.add:hover{
+    background-color: #bbb;
+}
