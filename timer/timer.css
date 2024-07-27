@@ -1,0 +1,21 @@
+body{
+    background: #dddddd;
+    margin: 24px;
+}
+.timer{
+    font-family: sans-serif;
+    display: inline-block;
+    padding: 24px 32px;
+    font-size: 80px;
+}
+    
+.time-buttons button{
+    width: 60px;
+    height: 60px;
+    margin-left: 27px;
+    border-radius: 50%;
+    border: none;
+    color: white;
+    background: #6f0f7c;
+    cursor: pointer;
+  }
